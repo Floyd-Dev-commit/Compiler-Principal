@@ -1,4 +1,5 @@
 # Compiler-Principal
+Time Stamp - 2020 Spring
 # Overview
 
 This repository contains three core laboratory projects from the Compiler Construction course. Together, they demonstrate the fundamental stages of a compiler's front-end: converting raw source code into token streams, and subsequently parsing those streams using two distinct syntax analysis algorithms (Top-Down Recursive Descent and LL(1) Table-Driven Parsing).
