@@ -18,7 +18,7 @@ Output: Generates a stream of tuples (Token ID, String Value) to be fed into the
 
 # Project 2: Recursive Descent Parser
 Overview
-This project implements a Top-Down Recursive Descent Parsing subroutine (递归下降分析子程序) to validate simple arithmetic expressions based on a specific context-free grammar G[E].
+This project implements a Top-Down Recursive Descent Parsing subroutine to validate simple arithmetic expressions based on a specific context-free grammar G[E].
 
 Target Grammar G[E]
 The parser eliminates left-recursion and utilizes the following grammar:
